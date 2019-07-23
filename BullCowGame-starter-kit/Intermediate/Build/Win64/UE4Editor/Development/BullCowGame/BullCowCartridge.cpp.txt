@@ -1,0 +1,5 @@
+D:\CPlusPlus\UECPP\Section 3\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\Definitions.BullCowGame.h
+D:\CPlusPlus\UECPP\Section 3\BullCowGame-starter-kit\Source\BullCowGame\BullCowCartridge.h
+D:\CPlusPlus\UECPP\Section 3\BullCowGame-starter-kit\Source\BullCowGame\Console/Cartridge.h
+D:\CPlusPlus\UECPP\Section 3\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Inc\BullCowGame\Cartridge.generated.h
+D:\CPlusPlus\UECPP\Section 3\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Inc\BullCowGame\BullCowCartridge.generated.h
