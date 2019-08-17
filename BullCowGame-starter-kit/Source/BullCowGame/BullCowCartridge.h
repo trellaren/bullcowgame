@@ -16,6 +16,9 @@ class BULLCOWGAME_API UBullCowCartridge : public UCartridge
 	virtual void OnInput(const FString& Input) override;
 	void InitGame();
 	void PrintGuesses();
+	void GetRandomWord();
+	void ScrambleLetters();
+	void AppendScrambledChars();
 
 	// Your declarations go below!
 	private:
@@ -25,4 +28,9 @@ class BULLCOWGAME_API UBullCowCartridge : public UCartridge
 	FString GuessString;
 	int32 GuessCount;
 	int32 GuessesRemaining;
+	TArray<FString> ListOfWords;
+	int32 RandomNumber;
+	FString RandomWord;
+	TArray<TCHAR> NormalWord;
+	FString ScrambledWord;
 };
